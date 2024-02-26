@@ -70,7 +70,6 @@ export default function Paquetes() {
                     </div>
                 </div>
             </section>
-
             <section className="section-table">
                 <table className="table-layout">
                     <thead>

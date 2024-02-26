@@ -13,7 +13,6 @@ module.exports = {
     plugins: ["react-refresh"],
     rules: {
         "react-refresh/only-export-components": ["warn", { allowConstantExport: true }],
-        indent: ["error", 4], // Establece 4 espacios por tab
-        "react/prop-types": "off"
+        "react/prop-types": "off",
     },
 };
